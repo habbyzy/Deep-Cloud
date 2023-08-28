@@ -5,7 +5,7 @@
 
 3.The running environment of the cloud model is Matlab R2018a.
 
-4.The file named "cloud_main" is the runtime file, and the file named "cloud_compute"  is the function file.
+4.The file named "cloud_main" is the running file, and the file named "cloud_compute"  is the function file.
 
 5.At runtime, create a new data format in the matlab workspace and name it "C", which is the same as the function in the "cloud_main" file, and set the N value in the "cloud_main" file. 
 
